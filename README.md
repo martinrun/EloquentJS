@@ -1,2 +1,3 @@
 # eloquentJS
-My exercises for Eloquent JavaScript
+My notes and exercises for Eloquent JavaScript
+Sandbox: http://eloquentjavascript.net/code
